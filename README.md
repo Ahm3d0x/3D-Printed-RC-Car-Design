@@ -1,0 +1,2 @@
+# 3D-Printed-RC-Car-Design
+"This repository contains the full 3D design files for a custom-built, 3D-printed remote-control car. The design was created from scratch using SolidWorks and includes the chassis, gearbox, and all component placements. The car is powered by two DC motors and features a unique gearing system for increased torque. Feel free to download, modify, and build your own version!"
